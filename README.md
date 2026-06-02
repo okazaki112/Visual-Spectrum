@@ -42,13 +42,9 @@
 ## 🚀 快速开始
 
 ### 在线体验
-直接在浏览器中打开 `音乐频谱.html` 文件即可使用。
+直接在浏览器中打开 `https://okazaki112.github.io/Visual-Spectrum/` 即可使用。
 
-```bash
-# 或使用本地服务器
-python -m http.server 8080
-# 然后访问 http://localhost:8080/音乐频谱.html
-```
+
 
 ### 使用说明
 
